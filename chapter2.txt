@@ -1,0 +1,10 @@
+click 'Branch: master' and enter a new branch 'experimental'
+edit 'chapter1.txt' (this is a great story')
+Update chapter 1 to be more upbeat
+'commit directly to the experimental branch' / 'Commit changes' 
+WRTING IN ENGLISH … PLEASE (Web Dev Bootcamp course on my blog?)
+
+go to master branch / Click 'Story2' and 'Add file' / Create new file /
+create chapter2. txt ( … )
+Click 'New pull request' -> jump to the compare changes screen
+Click 'Create pull request'  (Merge command)

@@ -1,0 +1,4 @@
+Story 2
+Merging on the github
+create new repository
+click 'Initialize this repository with a README'
